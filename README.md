@@ -20,7 +20,7 @@
 ## Проекты
 - [OpenMediaHub](https://github.com/Sverdlovsky/open-media-hub) - Медиаресурс для просмотра сериалов и изучения языков
 - [SimpleVideoHosting](https://github.com/Sverdlovsky/simple-video-hosting) - Веб-сайт для обмена видеоконтентом
-- [OpenDecIoTSolution](https://github.com/Sverdlovsky/config-web-tool) - Собственная IoT инфраструктура (Начальная стадия)
+- [OpenDecIoTSolution](https://github.com/Sverdlovsky/open-dec-iot-solution) - Собственная IoT инфраструктура
 - [Shade](https://github.com/Sverdlovsky/shade) - Discord-бот с элементами NLP и CV
 - [SSS](https://github.com/Sverdlovsky/sss) - Приложение для синхронизации файлов
 
