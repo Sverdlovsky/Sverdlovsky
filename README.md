@@ -25,7 +25,7 @@
 - [SSS](https://github.com/Sverdlovsky/sss) - Приложение для синхронизации файлов
 
 ### Экспериментальное
-- [AADLDriver](https://github.com/Sverdlovsky/aa-dl-driver) - Автопилот для ArcheAge (с генератором датасета)
+- [AADLDriver](https://github.com/Sverdlovsky/archeage-deep-learning-driver) - Автопилот для ArcheAge (с генератором датасета)
 - [Real-ESRGAN (Fast & GUIed)](https://github.com/Sverdlovsky/real-esrgan-fast-n-guied) - Переписанный с нуля Real-ESRGAN
 
 ### Инфраструктуры
