@@ -20,14 +20,13 @@
 ## Проекты
 - [OpenMediaHub](https://github.com/Sverdlovsky/open-media-hub) - Медиаресурс для просмотра сериалов и изучения языков
 - [SimpleVideoHosting](https://github.com/Sverdlovsky/simple-video-hosting) - Веб-сайт для обмена видеоконтентом
-- [ConfigWebTool](https://github.com/Sverdlovsky/config-web-tool) - Веб-сайт для генерации конфигов
-- OpenDecIoTSolution - Собственная IoT инфраструктура (Начальная стадия)
-- [SSS](https://github.com/sss) - Приложение для синхронизации файлов
+- [OpenDecIoTSolution](https://github.com/Sverdlovsky/config-web-tool) - Собственная IoT инфраструктура (Начальная стадия)
+- [Shade](https://github.com/Sverdlovsky/shade) - Discord-бот с элементами NLP и CV
+- [SSS](https://github.com/Sverdlovsky/sss) - Приложение для синхронизации файлов
 
 ### Экспериментальное
-- [Shade](https://github.com/Sverdlovsky/shade) - Discord-бот с элементами NLP и CV
 - [AADLDriver](https://github.com/Sverdlovsky/aa-dl-driver) - Автопилот для ArcheAge (с генератором датасета)
-- [Real-ESRGAN (Fast & GUIed)](https://github.com/Sverdlovsky/Real-ESRGAN-fast-n-guied) - Переписанный с нуля Real-ESRGAN
+- [Real-ESRGAN (Fast & GUIed)](https://github.com/Sverdlovsky/real-esrgan-fast-n-guied) - Переписанный с нуля Real-ESRGAN
 
 ### Инфраструктуры
 - [Multinode Debian Homeserver](https://github.com/Sverdlovsky/multinode-server-guide)
