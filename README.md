@@ -21,7 +21,7 @@
 - [OpenMediaHub](https://github.com/Sverdlovsky/open-media-hub) - Медиаресурс для просмотра сериалов и изучения языков
 - [SimpleVideoHosting](https://github.com/Sverdlovsky/simple-video-hosting) - Веб-сайт для обмена видеоконтентом
 - [ConfigWebTool](https://github.com/Sverdlovsky/config-web-tool) - Веб-сайт для генерации конфигов
-- [OpenDecIoTSolution](https://github.com/Sverdlovsky/open-dec-iot-solution) - Собственная IoT инфраструктура
+- OpenDecIoTSolution - Собственная IoT инфраструктура (Начальная стадия)
 - [SSS](https://github.com/sss) - Приложение для синхронизации файлов
 
 ### Экспериментальное
