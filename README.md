@@ -18,7 +18,7 @@
 ---
 
 ## Проекты
-- [OpenMediaHub](https://github.com/Sverdlovsky/core-edu) - Медиаресурс для изучения языков по фильмам/сериалам, продолжающий идею Anki
+- [Core Edu](https://github.com/Sverdlovsky/core-edu) - Медиаресурс для изучения языков по фильмам/сериалам, продолжающий идею Anki
 - [SimpleVideoHosting](https://github.com/Sverdlovsky/simple-video-hosting) - Веб-сайт для обмена видеоконтентом
 - [OpenDecIoTSolution](https://github.com/Sverdlovsky/open-dec-iot-solution) - Собственная IoT инфраструктура
 - [Shade](https://github.com/Sverdlovsky/shade) - Discord-бот с элементами NLP и CV
