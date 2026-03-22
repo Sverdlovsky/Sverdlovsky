@@ -18,15 +18,15 @@
 ---
 
 ## Проекты
-- [Core Edu](https://github.com/Sverdlovsky/core-edu) - Медиаресурс для изучения языков по фильмам/сериалам, продолжающий идею Anki
-- [SimpleVideoHosting](https://github.com/Sverdlovsky/simple-video-hosting) - Веб-сайт для обмена видеоконтентом
-- [OpenDecIoTSolution](https://github.com/Sverdlovsky/open-dec-iot-solution) - Собственная IoT инфраструктура
-- [Shade](https://github.com/Sverdlovsky/shade) - Discord-бот с элементами NLP и CV
-- [SSS](https://github.com/Sverdlovsky/sss) - Приложение для синхронизации файлов
+- [Core Edu](https://github.com/Sverdlovsky/core-edu) — Медиаресурс для изучения языков по фильмам/сериалам, продолжающий идею Anki
+- [SimpleVideoHosting](https://github.com/Sverdlovsky/simple-video-hosting) — Веб-сайт для обмена видеоконтентом
+- [OpenDecIoTSolution](https://github.com/Sverdlovsky/open-dec-iot-solution) — Собственная IoT инфраструктура
+- [Shade](https://github.com/Sverdlovsky/shade) — Discord-бот с элементами NLP и CV
+- [SSS](https://github.com/Sverdlovsky/sss) — Приложение для синхронизации файлов
 
 ### Экспериментальное
-- [AADLDriver](https://github.com/Sverdlovsky/archeage-deep-learning-driver) - Автопилот для ArcheAge (с генератором датасета)
-- [Real-ESRGAN (Fast & GUIed)](https://github.com/Sverdlovsky/real-esrgan-fast-n-guied) - Переписанный с нуля Real-ESRGAN
+- [AADLDriver](https://github.com/Sverdlovsky/archeage-deep-learning-driver) — Автопилот для ArcheAge (с генератором датасета)
+- [Real-ESRGAN (Fast & GUIed)](https://github.com/Sverdlovsky/real-esrgan-fast-n-guied) — Переписанный с нуля Real-ESRGAN
 
 ### Инфраструктуры
 - [Multinode Debian Homeserver](https://github.com/Sverdlovsky/multinode-server-guide)
