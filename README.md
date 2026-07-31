@@ -1,11 +1,11 @@
 # Sverdlovsky
 
-Люблю изучать новые технологии, экспериментировать и разрабатывать качественное, выверенное до мелочей ПО для ежедневного использования.
+Люблю изучать новые технологии, экспериментировать и разрабатывать качественное, выверенное до мелочей ПО.
 
 ## Основные направления
 - DevOps
 - InfSec
-- ML Engineer
+- ML
 
 ### Также интересуюсь
 - Backend-разработка
@@ -18,11 +18,13 @@
 ---
 
 ## Проекты
-- [Core Edu](https://github.com/Sverdlovsky/core-edu) — Медиаресурс для изучения языков по фильмам/сериалам, продолжающий идею Anki
+- [Core Edu](https://github.com/Sverdlovsky/core-edu) — Веб-сайт для изучения слов, продолжающий идею Anki
 - [SimpleVideoHosting](https://github.com/Sverdlovsky/simple-video-hosting) — Веб-сайт для обмена видеоконтентом
 - [OpenDecIoTSolution](https://github.com/Sverdlovsky/open-dec-iot-solution) — Собственная IoT инфраструктура
 - [Shade](https://github.com/Sverdlovsky/shade) — Discord-бот с элементами NLP и CV
 - [SSS](https://github.com/Sverdlovsky/sss) — Приложение для синхронизации файлов
+- [YAOAE](https://github.com/Sverdlovsky/yet-another-oauth-endpoint) — Приложение для passwordless авторизации пользователя через OAuth и Email Magic Link
+- [YAEAE](https://github.com/Sverdlovsky/yet-another-external-authorization-endpoint) — Простое приложение для ExternalAuth/ext_authz для расшифровки JWT и передачи данных пользователя в конечное приложение
 
 ### Экспериментальное
 - [AADLDriver](https://github.com/Sverdlovsky/archeage-deep-learning-driver) — Автопилот для ArcheAge (с генератором датасета)
@@ -34,7 +36,7 @@
 - [Arch + Hyprland](https://github.com/Sverdlovsky/arch-hyperland-guide)
 
 ### Другие
-[RustEasyOAuth](https://github.com/Sverdlovsky/rust-easy-oauth) - [PyTesterV2](https://github.com/Sverdlovsky/pytester-v2) - [DayZ minigames server](https://github.com/Sverdlovsky/dayz-minigames) - [Pavlov VR - Jupiter Facroty map](https://github.com/Sverdlovsky/pvlv-stlk-jupiter-factory) - [JavaMinesweeper](https://github.com/Sverdlovsky/java-minesweeper)
+[PyTesterV2](https://github.com/Sverdlovsky/pytester-v2) - [DayZ minigames server](https://github.com/Sverdlovsky/dayz-minigames) - [Pavlov VR - Jupiter Facroty map](https://github.com/Sverdlovsky/pvlv-stlk-jupiter-factory) - [JavaMinesweeper](https://github.com/Sverdlovsky/java-minesweeper)
 
 ---
 
