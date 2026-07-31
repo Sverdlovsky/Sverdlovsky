@@ -13,7 +13,8 @@
 - Микроэлектроника
 
 ## Навыки
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,fastapi,rust,actix,tauri,electron,ts,svelte,html,css,c,cpp,bash,md,linux,git,nginx,docker,postgres,redis,sqlite,grafana,prometheus,gitlab,githubactions,figma,blender,unreal,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,fastapi,rust,actix,tauri,electron,go,ts,svelte,html,css,c,cpp,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,linux,grafana,prometheus,postgres,redis,sqlite,nginx,git,githubactions,gitlab,figma,blender,unreal)](https://skillicons.dev)
 
 ---
 
